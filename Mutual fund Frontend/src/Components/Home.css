@@ -1,0 +1,41 @@
+.box {
+  background-image: url("../images/bg5.png");
+  background-size: cover;
+  background-position: center;
+  height:95vh;
+}
+
+.bg-aqua {
+  background-color: #00d4d4;
+}
+
+.box_three {
+  background-color: #343a40;
+  color: white;
+  height: 70vh;
+}
+
+.box_four {
+  background-color: #007bff;
+  color: white;
+  height:40vh;
+}
+
+.box_five{
+ height:45vh;
+}
+
+.box_six{
+    height:35vh;
+}
+
+
+.box_eight{
+  background-color: "transparent";
+  border: "collapse"; 
+   
+}
+.footer-section a:hover {
+  text-decoration: none;
+  color: #ffc107;
+}
