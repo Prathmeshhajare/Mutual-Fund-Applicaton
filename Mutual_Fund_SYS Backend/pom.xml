@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.form</groupId>
-	<artifactId>Mutual_Fund_Account_Management_System</artifactId>
+	<artifactId>mutual-fund-sys-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Mutual_Fund_Account_Management_System</name>
+	<name>Mutual_Fund_SYS Backend</name>
 	<description>Mutual Fund Account Management System</description>
 	<url/>
 	<licenses>
